@@ -12,13 +12,13 @@ You can configure the database at runtime using various environment variables:
   (default: `0.0.0.0`)
 - `AMBER__SERVER__PORTS__S3` -
   port on which the database will be listening
-  (default: `29000`)
+  (default: `10610`)
 - `AMBER__SERVER__PORTS__WEB` -
   port on which the web interface will be available
-  (default: `29001`)
+  (default: `10611`)
 - `AMBER__URLS__WEB` -
   public URL of the web interface
-  (default: `http://localhost:29001`)
+  (default: `http://localhost:10611`)
 - `AMBER__CREDENTIALS__ADMIN__USER` -
   username for the admin user
   (default: `admin`)

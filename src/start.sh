@@ -3,9 +3,9 @@
 # Configuration
 
 host="${AMBER__SERVER__HOST:-0.0.0.0}"
-port="${AMBER__SERVER__PORTS__S3:-29000}"
-web_port="${AMBER__SERVER__PORTS__WEB:-29001}"
-web_public_url="${AMBER__URLS__WEB:-http://localhost:29001}"
+port="${AMBER__SERVER__PORTS__S3:-10610}"
+web_port="${AMBER__SERVER__PORTS__WEB:-10611}"
+web_public_url="${AMBER__URLS__WEB:-http://localhost:10611}"
 admin_user="${AMBER__CREDENTIALS__ADMIN__USER:-admin}"
 admin_password="${AMBER__CREDENTIALS__ADMIN__PASSWORD:-password}"
 readonly_user="${AMBER__CREDENTIALS__READONLY__USER:-readonly}"

@@ -8,9 +8,9 @@ docs: true
 docsurl: https://radio-aktywne.github.io/amber
 envprefix: AMBER
 imagename: databases/amber
-port: 29000
+port: 10610
 registry: true
 releases: true
 reponame: amber
 repourl: https://github.com/radio-aktywne/amber
-webport: 29001
+webport: 10611
