@@ -2,15 +2,15 @@
 _commit: 0.5.0
 _src_path: gh:radio-aktywne/template-database-minio
 accountname: radio-aktywne
-databasename: medialounge
+databasename: amber
 description: Broadcast prerecordings media 🛋️
 docs: true
-docsurl: https://radio-aktywne.github.io/medialounge
-envprefix: MEDIALOUNGE
-imagename: databases/medialounge
+docsurl: https://radio-aktywne.github.io/amber
+envprefix: AMBER
+imagename: databases/amber
 port: 29000
 registry: true
 releases: true
-reponame: medialounge
-repourl: https://github.com/radio-aktywne/medialounge
+reponame: amber
+repourl: https://github.com/radio-aktywne/amber
 webport: 29001

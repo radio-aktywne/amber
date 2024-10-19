@@ -3,11 +3,11 @@ slug: /
 title: Index
 ---
 
-# medialounge
+# amber
 
 Broadcast prerecordings media 🛋️
 
 ## 💡 About
 
-`medialounge` is a [`MinIO`](https://min.io) based storage
+`amber` is a [`MinIO`](https://min.io) based storage
 for prerecorded broadcasts.
