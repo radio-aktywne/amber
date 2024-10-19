@@ -3,9 +3,9 @@ slug: /
 title: Index
 ---
 
-# medialounge database
+# medialounge
 
-Emission prerecordings media 🛋️
+Broadcast prerecordings media 🛋️
 
 ## 💡 About
 
