@@ -1,13 +1,13 @@
-<h1 align="center">medialounge</h1>
+<h1 align="center">amber</h1>
 
 <div align="center">
 
 Broadcast prerecordings media 🛋️
 
-[![Lint](https://github.com/radio-aktywne/medialounge/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/lint.yaml)
-[![Image](https://github.com/radio-aktywne/medialounge/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/image.yaml)
-[![Registry](https://github.com/radio-aktywne/medialounge/actions/workflows/registry.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/registry.yaml)
-[![Docs](https://github.com/radio-aktywne/medialounge/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/docs.yaml)
+[![Lint](https://github.com/radio-aktywne/amber/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/amber/actions/workflows/lint.yaml)
+[![Image](https://github.com/radio-aktywne/amber/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/amber/actions/workflows/image.yaml)
+[![Registry](https://github.com/radio-aktywne/amber/actions/workflows/registry.yaml/badge.svg)](https://github.com/radio-aktywne/amber/actions/workflows/registry.yaml)
+[![Docs](https://github.com/radio-aktywne/amber/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/amber/actions/workflows/docs.yaml)
 
 </div>
 
@@ -15,15 +15,15 @@ Broadcast prerecordings media 🛋️
 
 ## 💡 About
 
-`medialounge` is a [`MinIO`](https://min.io) based storage
+`amber` is a [`MinIO`](https://min.io) based storage
 for prerecorded broadcasts.
 
 ## 📄 Further Reading
 
 More in-depth documentation can be found
-[here](https://radio-aktywne.github.io/medialounge).
+[here](https://radio-aktywne.github.io/amber).
 
 ## 💻 Development
 
 Read more about how to develop the project
-[here](https://github.com/radio-aktywne/medialounge/blob/main/CONTRIBUTING.md).
+[here](https://github.com/radio-aktywne/amber/blob/main/CONTRIBUTING.md).

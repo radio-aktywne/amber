@@ -2,16 +2,16 @@
 
 # Configuration
 
-host="${MEDIALOUNGE__SERVER__HOST:-0.0.0.0}"
-port="${MEDIALOUNGE__SERVER__PORTS__S3:-29000}"
-web_port="${MEDIALOUNGE__SERVER__PORTS__WEB:-29001}"
-web_public_url="${MEDIALOUNGE__URLS__WEB:-http://localhost:29001}"
-admin_user="${MEDIALOUNGE__CREDENTIALS__ADMIN__USER:-admin}"
-admin_password="${MEDIALOUNGE__CREDENTIALS__ADMIN__PASSWORD:-password}"
-readonly_user="${MEDIALOUNGE__CREDENTIALS__READONLY__USER:-readonly}"
-readonly_password="${MEDIALOUNGE__CREDENTIALS__READONLY__PASSWORD:-password}"
-readwrite_user="${MEDIALOUNGE__CREDENTIALS__READWRITE__USER:-readwrite}"
-readwrite_password="${MEDIALOUNGE__CREDENTIALS__READWRITE__PASSWORD:-password}"
+host="${AMBER__SERVER__HOST:-0.0.0.0}"
+port="${AMBER__SERVER__PORTS__S3:-29000}"
+web_port="${AMBER__SERVER__PORTS__WEB:-29001}"
+web_public_url="${AMBER__URLS__WEB:-http://localhost:29001}"
+admin_user="${AMBER__CREDENTIALS__ADMIN__USER:-admin}"
+admin_password="${AMBER__CREDENTIALS__ADMIN__PASSWORD:-password}"
+readonly_user="${AMBER__CREDENTIALS__READONLY__USER:-readonly}"
+readonly_password="${AMBER__CREDENTIALS__READONLY__PASSWORD:-password}"
+readwrite_user="${AMBER__CREDENTIALS__READWRITE__USER:-readwrite}"
+readwrite_password="${AMBER__CREDENTIALS__READWRITE__PASSWORD:-password}"
 bucket=default
 
 # Start MinIO
