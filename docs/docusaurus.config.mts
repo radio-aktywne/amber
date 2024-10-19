@@ -2,10 +2,10 @@ import type * as Preset from "@docusaurus/preset-classic";
 import type { Config } from "@docusaurus/types";
 import { themes } from "prism-react-renderer";
 
-const url = new URL("https://radio-aktywne.github.io/database-medialounge");
+const url = new URL("https://radio-aktywne.github.io/medialounge");
 
 const config: Config = {
-  title: "medialounge database docs",
+  title: "medialounge docs",
   favicon: "favicon.svg?v=1",
 
   url: `${url.protocol}//${url.host}`,
@@ -41,14 +41,14 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: "medialounge database docs",
+      title: "medialounge docs",
       logo: {
-        alt: "medialounge database docs logo",
+        alt: "medialounge docs logo",
         src: "logo.svg?v=1",
       },
       items: [
         {
-          href: "https://github.com/radio-aktywne/database-medialounge",
+          href: "https://github.com/radio-aktywne/medialounge",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",

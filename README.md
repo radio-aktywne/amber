@@ -1,13 +1,13 @@
-<h1 align="center">medialounge database</h1>
+<h1 align="center">medialounge</h1>
 
 <div align="center">
 
-Emission prerecordings media 🛋️
+Broadcast prerecordings media 🛋️
 
-[![Lint](https://github.com/radio-aktywne/database-medialounge/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/database-medialounge/actions/workflows/lint.yaml)
-[![Image](https://github.com/radio-aktywne/database-medialounge/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/database-medialounge/actions/workflows/image.yaml)
-[![Registry](https://github.com/radio-aktywne/database-medialounge/actions/workflows/registry.yaml/badge.svg)](https://github.com/radio-aktywne/database-medialounge/actions/workflows/registry.yaml)
-[![Docs](https://github.com/radio-aktywne/database-medialounge/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/database-medialounge/actions/workflows/docs.yaml)
+[![Lint](https://github.com/radio-aktywne/medialounge/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/lint.yaml)
+[![Image](https://github.com/radio-aktywne/medialounge/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/image.yaml)
+[![Registry](https://github.com/radio-aktywne/medialounge/actions/workflows/registry.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/registry.yaml)
+[![Docs](https://github.com/radio-aktywne/medialounge/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/medialounge/actions/workflows/docs.yaml)
 
 </div>
 
@@ -21,9 +21,9 @@ for prerecorded broadcasts.
 ## 📄 Further Reading
 
 More in-depth documentation can be found
-[here](https://radio-aktywne.github.io/database-medialounge).
+[here](https://radio-aktywne.github.io/medialounge).
 
 ## 💻 Development
 
 Read more about how to develop the project
-[here](https://github.com/radio-aktywne/database-medialounge/blob/main/CONTRIBUTING.md).
+[here](https://github.com/radio-aktywne/medialounge/blob/main/CONTRIBUTING.md).

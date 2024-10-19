@@ -1,16 +1,16 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 0.4.0
+_commit: 0.5.0
 _src_path: gh:radio-aktywne/template-database-minio
 accountname: radio-aktywne
 databasename: medialounge
-description: Emission prerecordings media 🛋️
+description: Broadcast prerecordings media 🛋️
 docs: true
-docsurl: https://radio-aktywne.github.io/database-medialounge
+docsurl: https://radio-aktywne.github.io/medialounge
 envprefix: MEDIALOUNGE
 imagename: databases/medialounge
 port: 29000
 registry: true
 releases: true
-reponame: database-medialounge
-repourl: https://github.com/radio-aktywne/database-medialounge
+reponame: medialounge
+repourl: https://github.com/radio-aktywne/medialounge
 webport: 29001
